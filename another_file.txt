@@ -1,2 +1,2 @@
 新しいファイルでmainを更新
-pull時のrebase用コミット
+pull時のrebase用コミット(at 2times)
